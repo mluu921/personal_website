@@ -217,22 +217,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "mailto:michael.luu@cshs.org"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=yesr_kkAAAAJ&hl=en"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/mluu921"
 
 
 # Navigation Links
@@ -253,20 +248,20 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
