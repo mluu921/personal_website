@@ -3,7 +3,7 @@ title = "Treatment at high‐volume facilities and academic centers is independe
 date = "2017-06-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = {'David, John M', 'Ho, Allen S', 'Luu, Michael', 'Yoshida, Emi J', 'Kim, Sungjin', 'Mita, Alain C', 'Scher, Kevin S', 'Shiao, Stephen L', 'Tighiouart, Mourad', 'Zumsteg, Zachary S'}
 
 # Publication type.
 # Legend:
