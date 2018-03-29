@@ -1,17 +1,30 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = false
-date = "2016-04-20T00:00:00"
+# Date this page was created.
+date = "2016-04-27"
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Accepted Abstracts"
-subtitle = ""
+# Project title.
+title = "Abstracts"
 
-# Order that this section will appear in.
-weight = 60
+# Project summary to display on homepage.
+summary = "Accepted abstracts at various conferences"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+# image_preview = "bubbles.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["abstract"]
+
+# Optional external URL for project (replaces project detail page).
+# external_link = "https://nicu.shinyapps.io/feedingcalc"
+
+# Does the project detail page use math formatting?
+math = true
+
+# Optional featured image (relative to `static/img/` folder).
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 
@@ -34,3 +47,4 @@ weight = 60
 9.	MB. Minissian, S. Kilpatrick, J. Eastwood, KJ. Sharma, CL. Shufelt, J. Wei, M. Luu, LV. Doering, and NB. Merz, Is Spontaneous Preterm Delivery Associated with Impaired Vascular Function?. Abstract submitted to the American College of Cardiology Young Investigators Award (2017).
 
 10.	R. Bakkar, M. Luu, X. Fan, D. Frishberg, M. Peralta-Venturina, J. Zhai, and S. Bose., Evaluation of the Paris System for Reporting Urine Cytopathology, Abstract submitted to the United States & Canada Academy of Pathology (USCAP) Annual Meeting (2018)
+
