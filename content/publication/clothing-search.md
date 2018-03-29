@@ -17,7 +17,7 @@ authors = ['John M David', 'Allen S Ho', 'Michael Luu', 'Emi J Yoshida', 'Sungji
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *CANCER*, IEEE."
+publication = "In *CANCER*"
 publication_short = "In *CANCER*"
 
 # Abstract and optional shortened version.
@@ -57,9 +57,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 
