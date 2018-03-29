@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "CHLA/USC Division of Neonatology Enteral Feeding Calculator "
+title = "CHLA/USC Division of Neonatology Enteral Feeding Calculator"
 
 # Project summary to display on homepage.
 summary = "A web based online interactive enteral feeding calculator built on top of the R Shiny framework."
@@ -28,7 +28,7 @@ math = true
 
 +++
 
-A web based online interactive calculator built on top of the R Shiny framework. This web application implements the enteral feeding algorithm developed internally by the quality improvement team of neonatologist and nurses at CHLA by simplifying the necessity for manual calculation, and by providing an interactive environment for custom parameters and report generation. This web application has been implemented and is in currently in clinical use at Children’s Hospital Los Angeles, LAC/USC Medical Center, and Hollywood Presbyterian Medical Center.
+A web based online interactive calculator built on top of the R Shiny framework. This web application implements the enteral feeding algorithm developed internally by the quality improvement team of neonatologist and nurses at CHLA by simplifying the necessity for manual calculation, and by providing an interactive environment for custom parameters and report generation. This web application has been implemented and is in currently in clinical use at Childrens Hospital Los Angeles, LAC/USC Medical Center, and Hollywood Presbyterian Medical Center.
 
 https://nicu.shinyapps.io/feedingcalc
 
