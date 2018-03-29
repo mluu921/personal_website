@@ -1,9 +1,9 @@
 +++
 title = "Treatment at high‐volume facilities and academic centers is independently associated with improved survival in patients with locally advanced head and neck cancer"
-date = "2017-06-22"
+date = "2017-10-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ['John M David', 'Allen S Ho', 'Michael Luu', 'Emi J Yoshida', 'Sungjin Kim', 'Alain C Mita', 'Kevin S Scher', 'Stephen L Shiao', 'Mourad Tighiouart', 'Zachary S Zumsteg']
 
 # Publication type.
 # Legend:
@@ -14,14 +14,14 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *CANCER*, IEEE."
+publication_short = "In *CANCER*"
 
 # Abstract and optional shortened version.
-abstract = "Patients with locally advanced head and neck squamous cell carcinoma who are undergoing curative radiotherapy at HVFs and academic centers appear to have improved survival."
+abstract = "The treatment of head and neck cancers is complex and associated with significant morbidity, requiring multidisciplinary care and physician expertise. Thus, facility characteristics, such as clinical volume and academic status, may influence outcomes."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -32,22 +32,22 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+# projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "#"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_pdf = "#"
+# url_preprint = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
@@ -63,4 +63,4 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+
