@@ -9,7 +9,7 @@ title = "CHLA/USC Division of Neonatology Enteral Feeding Calculator"
 summary = "A web based online interactive enteral feeding calculator built on top of the R Shiny framework."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image_preview = "bubbles.jpg"
+image_preview = "feeding_calc_screenshot.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
-# image = "headers/bubbles-wide.jpg"
+# image = "feeding_calc_screenshot.png"
 # caption = "My caption :smile:"
 
 +++
