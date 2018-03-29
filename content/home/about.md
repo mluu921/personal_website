@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "R",
-    "Predictive Modeling / Machine Learning",
-    "Survival Analysis"
+    "Predictive Modeling",
+    "Machine Learning",
+    "Survival Analysis",
     "Deep Neural Networks"
   ]
 

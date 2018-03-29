@@ -15,8 +15,6 @@ weight = 50
 
 +++
 
-# Teaching Assistant
-
 I am a teaching assistant for the following courses at the Cedars Sinai graduate PhD program:
 
 BMS510 ‐ Biostatistics (Winter 2018)- This course introduces methods and concepts of statistical analysis. Sampling situations are utilized with special attention to those occurring in biological sciences. Topics include distributions, tests of hypotheses, estimation, types of error, significance and confidence levels, power and sample size.
