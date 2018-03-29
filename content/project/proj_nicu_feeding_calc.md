@@ -6,14 +6,14 @@
 title = "CHLA/USC Division of Neonatology Enteral Feeding Calculator "
 
 # Project summary to display on homepage.
-# summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["deep-learning"]
+tags = ["deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "•	https://nicu.shinyapps.io/feedingcalc"
