@@ -19,7 +19,7 @@ tags = ["shiny"]
 # external_link = "https://nicu.shinyapps.io/feedingcalc"
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
