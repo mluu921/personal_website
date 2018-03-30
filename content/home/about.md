@@ -13,8 +13,7 @@ weight = 5
     "R",
     "Predictive Modeling",
     "Machine Learning",
-    "Survival Analysis",
-    "Deep Neural Networks"
+    "Survival Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
