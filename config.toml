@@ -218,6 +218,11 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:michael.luu@cshs.org"
+
+  [[params.social]]
+    icon = "file"
+    icon_pack = "fa"
+    link = "https://drive.google.com/file/d/1GLOl0-LwwcSX1iXq4MryLV4dTsqlWft7/view?usp=sharing"
     
   [[params.social]]
     icon = "linkedin"
@@ -233,6 +238,7 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/mluu921"
+
 
 
 # Navigation Links
