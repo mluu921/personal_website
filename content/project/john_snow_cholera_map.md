@@ -9,7 +9,7 @@ title = "John Snow Cholera Map"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "feeding_calc_screenshot.png"
+image_preview = "john_snow_cholera_map.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
